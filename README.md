@@ -23,12 +23,12 @@ Download [`bilibili_slang.mdx`](bilibili_slang.mdx) and add it to an MDict-compa
 
 - 18,950 dictionary terms with tone-marked readings and concise English definitions, including 82 curated terms from Chinese web novels and external glossaries
 - Simplified and traditional lookup forms
-- Bilibili frequency ranking metadata
+- No per-word frequency ranks or metadata
 - BOOX package: PyGlossary StarDict output with dictzip-compressed definitions and synonyms
-- MDict package: MDX 2.0, 30,804 Simplified and Traditional headwords
+- MDict package: MDX 2.0, 30,827 Simplified and Traditional headwords
 - Yomitan package: dictionary format 3
 
-The original candidates were selected from a Bilibili comment frequency corpus and filtered against large Chinese dictionaries. This release also includes 82 useful terms curated from a Chinese web-novel corpus and external slang, gaming, ACGN, and web-novel glossaries. Example comments informed the original Bilibili definitions; source examples are not included in the dictionary. Some obscure names and ambiguous expressions were skipped; a few pinyin or gloss choices may still need correction.
+The original candidates were selected from a Bilibili comment corpus and filtered against large Chinese dictionaries. This release also includes 82 useful terms curated from a Chinese web-novel corpus and external slang, gaming, ACGN, and web-novel glossaries. Example comments informed the original Bilibili definitions; source examples are not included in the dictionary. No word-frequency ranks or metadata are included. Some obscure names and ambiguous expressions were skipped; a few pinyin or gloss choices may still need correction.
 
 ## Files
 
@@ -39,4 +39,3 @@ The original candidates were selected from a Bilibili comment frequency corpus a
 - `README.md` — project and installation notes
 
 No license is specified for reuse.
-
