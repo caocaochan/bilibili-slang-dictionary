@@ -1,9 +1,8 @@
 {
   "title": "Bilibili Slang",
-  "revision": "2026-11-06",
+  "revision": "2026-11-06T10:22:33Z",
   "format": 3,
   "sequenced": true,
-  "frequencyMode": "rank-based",
   "sourceLanguage": "zh",
   "targetLanguage": "en",
   "author": "BilibiliFreq",
@@ -11,5 +10,5 @@
   "indexUrl": "https://raw.githubusercontent.com/caocaochan/bilibili-slang-dictionary/main/index.json",
   "downloadUrl": "https://github.com/caocaochan/bilibili-slang-dictionary/releases/latest/download/bilibili_slang.zip",
   "url": "https://github.com/caocaochan/bilibili-slang-dictionary",
-  "description": "18,950 slang words, memes and other useful expressions, including a curated set of NovelFreq and external-glossary terms, missing from CC-CEDICT, Moegirl, 现代汉语词典 and other big dictionaries. Bilibili candidates were chosen from the 50,000 most frequent such words; definitions were written from usage examples. The frequency shown is the rank the word would have in the Bilibili frequency dictionary."
+  "description": "18,950 slang words, memes and other useful expressions, including a curated set of NovelFreq and external-glossary terms, missing from CC-CEDICT, Moegirl, 现代汉语词典 and other big dictionaries. Definitions were written from contextual usage examples."
 }
