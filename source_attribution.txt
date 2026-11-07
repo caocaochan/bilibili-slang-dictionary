@@ -1,0 +1,17 @@
+Source attribution
+
+Chinese Meme Dictionary by sky and 楠
+https://github.com/re-skylar/chinese-meme-dict
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+7,205 slang and meme entries in this dictionary were informed by the
+Chinese Meme Dictionary. Its Chinese glosses were translated and
+the English dictionary definitions were independently edited. Changes were
+made for concise learner-dictionary style and to reflect contextual usage.
+
+English definitions from other harvested glossaries are retained where the
+source supplied an English definition, as requested. Newly authored senses use
+those sources as evidence. The project source-harvest ledger records each
+source and its reuse notes; these sources do not all carry a redistribution
+license.
